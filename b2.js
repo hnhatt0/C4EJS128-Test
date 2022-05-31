@@ -7,7 +7,7 @@ function numberOneTriangle(num) {
         }
         tamGiac += '\n';
     };
+    return console.log(tamGiac)
 }
 
 numberOneTriangle(10);
-console.log(tamGiac);
