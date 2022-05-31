@@ -1,0 +1,10 @@
+body {
+    min-height: 100vh;
+    background: linear-gradient(to right, #50c9c3, #96deda);
+    font-family: sans-serif;
+}
+
+input {
+    display: block;
+    margin-bottom: 10px;
+}
